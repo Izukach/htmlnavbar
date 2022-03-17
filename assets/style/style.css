@@ -1,0 +1,90 @@
+header {
+  background-color: rgb(70, 137, 250);
+  height: 50px;
+}
+main {
+  background-color: rgb(70, 137, 250);
+  height: 500px;
+  margin: 30px 30px;
+  padding-left: 250px;
+  padding-top: 20px;
+}
+
+#Unordered {
+  display: flex;
+  list-style-type: none;
+  justify-content: space-between;
+  padding-top: 15px;
+  color: rgb(199, 192, 192);
+}
+#span1 {
+  color: rgb(199, 192, 192);
+}
+#span2 {
+  color: rgb(235, 229, 229);
+}
+span {
+  font-size: large;
+  color: white;
+}
+#span3 {
+  color: white;
+}
+#span4 {
+  color: rgb(223, 221, 221);
+}
+#span5 {
+  color: white;
+}
+#select2 {
+  width: 120px;
+  height: 30px;
+  border-radius: 5px;
+  outline: none;
+  border: none;
+}
+#btn {
+  margin-right: 150px;
+  height: 30px;
+  border-radius: 5px;
+  outline: none;
+  border: none;
+  background-color: white;
+}
+#btn2 {
+  width: 60px;
+  height: 30px;
+  border-radius: 5px;
+  outline: none;
+  border: none;
+  margin-left: 20px;
+  background-color: white;
+}
+
+ul {
+  line-height: 35px;
+  list-style-type: none;
+  color: rgb(199, 192, 192);
+}
+h2 {
+  color: white;
+}
+
+li:hover {
+  color: aquamarine;
+}
+#span5:hover {
+  color: aquamarine;
+}
+#span2:hover {
+  color: aquamarine;
+}
+#select2:hover {
+  border: 1px solid black;
+}
+#btn:hover {
+  border: 1px solid black;
+}
+#btn2:hover {
+  border: 1px solid black;
+}
